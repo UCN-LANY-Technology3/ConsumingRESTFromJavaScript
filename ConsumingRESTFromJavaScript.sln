@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "ConsumingRESTFromJavaScript", "ConsumingRESTFromJavaScript\ConsumingRESTFromJavaScript.njsproj", "{2FE52131-2330-4B56-85D0-686F7AECC045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FE52131-2330-4B56-85D0-686F7AECC045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE52131-2330-4B56-85D0-686F7AECC045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE52131-2330-4B56-85D0-686F7AECC045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE52131-2330-4B56-85D0-686F7AECC045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DFE454E-CF52-414E-B34A-357AF5993401}
+	EndGlobalSection
+EndGlobal
