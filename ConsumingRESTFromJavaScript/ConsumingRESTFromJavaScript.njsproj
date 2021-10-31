@@ -31,7 +31,6 @@
     <Content Include="public\index.html" />
     <Content Include="server.js" />
     <Content Include="package.json" />
-    <Content Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="public\" />
